@@ -1,16 +1,13 @@
 # bookstoreferina
 
-A new Flutter project.
+Bookstore adalah toko buku berbasis mobile yang dibangun menggunakan flutter dan berintegrasi dengan API untuk menyajikan daftar buku.
 
-## Getting Started
+## Fitur Aplikasi
 
-This project is a starting point for a Flutter application.
+Halaman Home : Menampilkan daftar buku yang dapat dibeli oleh pengguna.
+Halaman Detail Buku : Menampilkan informasi yang lebih merinci tentang buku yang dipilih.
+Halaman Detail Transaksi : Menampilkan informasi buku yang akan dibeli oleh pengguna serta hasil perhitungan pajak dan total harga.
+Halaman Riwayat Transaksi : Menampilkan riwayat pembelian yang telah dilakukan oleh pengguna.
+Halaman Pengguna : Menampilkan informasi pengguna.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Sumber API : https://www.postman.com/mission-observer-28422374/sharedworkspace/collection/1w7odsl/ferapi?action=share&creator=30740731
