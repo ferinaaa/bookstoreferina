@@ -1,4 +1,4 @@
-# bookstoreferina
+# Bookstore
 
 Bookstore adalah toko buku berbasis mobile yang dibangun menggunakan flutter dan berintegrasi dengan API untuk menyajikan daftar buku.
 
